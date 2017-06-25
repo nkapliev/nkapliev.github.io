@@ -44,14 +44,8 @@ p
     line-height: 36px;
 }
 
-.about
-{
-    margin: 15px 0;
-}
-
-.email,
-.about-title
-{
+.info > div {
+    margin-top: 10px;
     font-size: 15px;
     line-height: 15px;
 }
@@ -75,11 +69,6 @@ p
 .link:hover
 {
     color: #EF4836;
-}
-
-.social
-{
-    margin-top: 10px;
 }
 
 .linkedin .icon
